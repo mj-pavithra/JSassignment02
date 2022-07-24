@@ -1,0 +1,35 @@
+body {
+    align-content: center;
+}
+
+div.row {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    left: 0;
+
+    height: 100%;
+    width: 100%;
+
+}
+
+div {
+    padding: 5px;
+}
+
+#form {
+    padding: auto;
+    margin: auto;
+    vertical-align: middle;
+    background-color: #F1F1F1;
+    border-radius: 5px;
+}
+
+.input-div {
+    margin: 10px;
+}
+
+.custom-btn {
+    background-color: #7DCE13;
+}
